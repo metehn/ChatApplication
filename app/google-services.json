@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960063189838",
+    "firebase_url": "https://chatapplication-9843a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatapplication-9843a",
+    "storage_bucket": "chatapplication-9843a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960063189838:android:ed456d89515e38dbb9241f",
+        "android_client_info": {
+          "package_name": "com.metehanersoy.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960063189838-ue8fbfhte70vrt7iqqqjgjrinsi3p4rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ayHfS_DZeEgICJ_7TZ_0cNiIXcGOztQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960063189838-ue8fbfhte70vrt7iqqqjgjrinsi3p4rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
